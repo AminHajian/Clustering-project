@@ -1,4 +1,4 @@
-### predict The possibility of a heart attack by some parameter like blood pressure and Age
+### Clustering of company employees
 - using Machine learning
 - Clustering  
 - using :
